@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Victoria.<br>🌱 I’m currently doing a two-year vocational training as an IT specialist in Software Development at BBQ Berlin.<br>
+Hi! I am Victoria.<br>🌱 Junior Full Stack Developer<br>
 
 
 ## 🌐 Socials:
